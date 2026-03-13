@@ -1,4 +1,4 @@
-# Omaka-Internship
+# Internship
 
 ## 量化金融实习记录
 
