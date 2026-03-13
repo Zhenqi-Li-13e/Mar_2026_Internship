@@ -7,11 +7,9 @@ data/
 raw_data/
 
 # ==================== 生成的图表 ====================
-results/
-*.png
-*.jpg
-*.jpeg
-*.pdf
+config/
+secrets/
+*.env
 
 # ==================== Python 相关 ====================
 __pycache__/
